@@ -1,0 +1,4 @@
+link para download do git:
+ https://git-scm.com/downloads
+
+o git é uma ferrramente para gerenciamento de arquivos em repositórios.
